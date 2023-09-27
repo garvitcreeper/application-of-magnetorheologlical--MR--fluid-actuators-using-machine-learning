@@ -1,16 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-    .content {
-      max-width: 800px;
-      margin: auto;
-    }
-  </style>
 </head>
 <body>
   <div class="content">
